@@ -123,8 +123,24 @@ telecom-churn-analysis/
 - Power BI Desktop (Free download)
 - MySQL Server (Free download)
 
+  
+
 ### Steps
 
 **1. Clone the repository**
 ```bash
 git clone https://github.com/RomeshikaDewmini/telecom-churn-analysis.git
+
+**2. Open Power BI Dashboard**
+
+Open Telecom_Churn_Analysis.pbix in Power BI Desktop
+
+Refresh data connection
+
+**3. Explore Dashboard**
+
+Review 3 dashboard pages
+
+Use slicers to filter data
+
+Export insights as needed
